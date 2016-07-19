@@ -1,3 +1,3 @@
-# Vertx-lab project
+# A research project
 
-A R&D project on using Vertx, Disruptor and Kafka to build high scalable web application.
+Using Vertx, Disruptor and Kafka to build high scalable web application.
