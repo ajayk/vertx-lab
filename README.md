@@ -1,2 +1,3 @@
-# gradle-quickstart
-A quickstart project with gradle wrapper setup that is used for research
+# Vertx-lab project
+
+A R&D project on using Vertx, Disruptor and Kafka to build high scalable web application.
